@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+    gap: 50px;
+}
+
+.chat_field {
+    /* min-width: 300px;
+    min-height: 400px; */
+    background-color: rgb(150, 150, 150);
+}
+
